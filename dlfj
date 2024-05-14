@@ -1,0 +1,15 @@
+safe.directory=/home/nxtwave/reactjs/coding-practices/debuggingFetchAndRouting
+safe.directory=/home/nxtwave/reactjs/coding-practices/debuggingFetchAndRouting
+safe.directory=/home/nxtwave/.tmp/reactjs/coding-practices/debuggingFetchAndRouting/build
+safe.directory=/home/nxtwave/reactjs/coding-practices/debuggingFetchAndRouting
+safe.directory=/home/nxtwave/.tmp/reactjs/coding-practices/debuggingFetchAndRouting/build
+safe.directory=/home/nxtwave/reactjs/coding-practices/debuggingFetchAndRouting
+safe.directory=/home/nxtwave/.tmp/reactjs/coding-practices/debuggingFetchAndRouting/build
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/munilee3/Fetch-and-Routing.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+user.email=muniswamykanike@gmail.com
+user.name=Muniswamy
